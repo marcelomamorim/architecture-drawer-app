@@ -1,0 +1,17 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "app para desenho de arquitetura de sistemas",
+  "main": "main.js",
+  "scripts": {
+    "test": "--test",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^20.0.2"
+  }
+}
+
+
